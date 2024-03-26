@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/A8Rhit-R)
 # Greeting Cards
 
 In this (two-part) lab, you will write a tiny app to create greeting cards that you can send to your friends, family, and more! You will need the knowledge you've built in the past two preps (forms and localStorage).
